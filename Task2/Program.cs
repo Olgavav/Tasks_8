@@ -4,7 +4,6 @@
 
 Console.Clear();
 
- 
 int[,] matrix = new int[4, 2];
 FillMatrix(matrix);
 PrintMatrix(matrix);
